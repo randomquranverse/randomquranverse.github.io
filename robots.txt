@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://randomquranverse.github.io/sitemap.xml
