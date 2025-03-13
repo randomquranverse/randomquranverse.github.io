@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact US</title>
+</head>
+<body>
+    <h1>Contact US</h1>
+    <p>Please fill out the form below:</p>
+
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc9a0V3OVKU6g2Tkgafkls47a59X2oPrB8L6fzJXfw9MM6hAA/viewform?embedded=true" 
+            width="640" 
+            height="959" 
+            frameborder="0" 
+            marginheight="0" 
+            marginwidth="0">Loading…</iframe>
+</body>
+</html>
